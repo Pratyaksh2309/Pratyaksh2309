@@ -10,7 +10,7 @@
   <a href="mailto:pratyaksh.wncc@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/pratyaksh-bhardwaj-b2309ar">
+  <a href="https://www.linkedin.com/in/pratyaksh-bhardwaj-b2309ar">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -41,13 +41,11 @@
 </div>
 
 ####
-<details align="left">
-  <summary><b>Recent GitHub activity</b></summary>
-  <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](undefined) in [wncc/Hello-FOSS-25_Instiforum](https://github.com/wncc/Hello-FOSS-25_Instiforum)
-2. 💪 Opened PR [#1](undefined) in [Pratyaksh2309/META-DAMP-Website](https://github.com/Pratyaksh2309/META-DAMP-Website)
-  <!--END_SECTION:activity-->
-</details>
+<!-- <details align="left">
+  <summary><b>Recent GitHub activity</b></summary> -->
+  <!--START_SECTI:activ-->
+  <!--END_SECTIN:acti-->
+<!-- </details> -->
 
 <img align="center" src="https://raw.githubusercontent.com/Pratyaksh2309/Pratyaksh2309/output/snake.svg" alt="Snake animation" />
 
