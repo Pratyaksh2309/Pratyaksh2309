@@ -43,7 +43,6 @@
 ####
 <details align="left">
   <summary><b>Recent GitHub activity</b></summary>
-  
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </details>
