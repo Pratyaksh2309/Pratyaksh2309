@@ -1,8 +1,8 @@
-# .github/workflows/recent-activity.yml
 name: Update README with recent activity
 on:
-  schedule: [{ cron: "0 0 * * *" }]  # daily at 00:00 UTC
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours (00:00, 12:00 UTC)
+  workflow_dispatch:         # allow manual runs
 permissions:
   contents: write
 jobs:
@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: Readme-Workflows/recent-activity@v2
         with:
-          COMMIT_MSG: "chore: update recent activity"
+          COMMIT_MSG: "chore: update recent activity (12h)"
