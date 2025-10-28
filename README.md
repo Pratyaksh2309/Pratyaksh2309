@@ -44,6 +44,8 @@
 <details align="left">
   <summary><b>Recent GitHub activity</b></summary>
   <!--START_SECTION:activity-->
+1. 💪 Opened PR [#27](undefined) in [wncc/Hello-FOSS-25_Instiforum](https://github.com/wncc/Hello-FOSS-25_Instiforum)
+2. 💪 Opened PR [#1](undefined) in [Pratyaksh2309/META-DAMP-Website](https://github.com/Pratyaksh2309/META-DAMP-Website)
   <!--END_SECTION:activity-->
 </details>
 
