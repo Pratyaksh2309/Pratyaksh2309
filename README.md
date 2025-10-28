@@ -42,10 +42,10 @@
 
 ####
 <details align="left">
-  <summary><b>Weekly coding stats</b> </summary>
-
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  <summary><b>Recent GitHub activity</b></summary>
+  
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 <img align="center" src="https://raw.githubusercontent.com/Pratyaksh2309/Pratyaksh2309/output/snake.svg" alt="Snake animation" />
