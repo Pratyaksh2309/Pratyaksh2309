@@ -10,6 +10,6 @@ jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@v2
+      - uses: jamesgeorge007/github-activity-readme@v0.4.5
         with:
           COMMIT_MSG: "chore: update recent activity (12h)"
